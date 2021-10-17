@@ -1,4 +1,4 @@
-echo "# MySQL-Subs" >> README.md
+echo "# MySQL-Subs" >> Example-5
 git init
 git add README.md
 git commit -m "first commit"
